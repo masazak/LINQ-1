@@ -1,0 +1,8 @@
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\bin\Debug\LINQ 1.exe.config
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\bin\Debug\LINQ 1.exe
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\bin\Debug\LINQ 1.pdb
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\obj\Debug\LINQ 1.csproj.AssemblyReference.cache
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\obj\Debug\LINQ 1.csproj.SuggestedBindingRedirects.cache
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\obj\Debug\LINQ 1.csproj.CoreCompileInputs.cache
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\obj\Debug\LINQ 1.exe
+D:\ALL FILES FOR MASA\visual studio\LINQ 1\LINQ 1\obj\Debug\LINQ 1.pdb
